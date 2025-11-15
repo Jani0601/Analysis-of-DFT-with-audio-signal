@@ -90,7 +90,7 @@ plt.show()
 Top 10 Dominant Frequencies:
 
 1. 69.98 Hz (Magnitude = 6.79e+00)
-2. 2. 282.62 Hz (Magnitude = 5.87e+00)
+2. 282.62 Hz (Magnitude = 5.87e+00)
 3. 258.40 Hz (Magnitude = 5.65e+00)
 4. 67.29 Hz (Magnitude = 5.61e+00)
 5. 301.46 Hz (Magnitude = 5.03e+00)
